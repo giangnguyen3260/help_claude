@@ -1,7 +1,10 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "claude-help",
-  "description": "Clone & save, this repo clone from affaan-m/everthing-claude-code for learning, using, and ehance",
+  "description": "Clone & save, this repo clone from affaan-m/everthing-claude-code for learning, using, and enhance",
+  "owner": {
+	"name": "hideOnSmile"
+	},
   "plugins": [
     {
       "name": "claude_help",
