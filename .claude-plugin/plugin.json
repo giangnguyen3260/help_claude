@@ -1,5 +1,5 @@
 {
-  "name": "claude-help",
+  "name": "claude_help",
   "version": "1.9.0",
   "description": "agents, skills, hooks, and rules evolved over 10+ months of intensive daily use",
   "homepage": "https://github.com/giangnguyen3260/help_claude/",
