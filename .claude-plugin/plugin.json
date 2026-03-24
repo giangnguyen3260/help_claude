@@ -2,6 +2,8 @@
   "name": "claude-help",
   "version": "1.9.0",
   "description": "agents, skills, hooks, and rules evolved over 10+ months of intensive daily use",
+  "homepage": "https://github.com/giangnguyen3260/help_claude/",
+  "repository": "https://github.com/giangnguyen3260/help_claude/",
   "keywords": [
     "claude-code",
     "agents",
